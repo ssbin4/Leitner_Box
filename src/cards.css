@@ -1,0 +1,35 @@
+.words, .image
+{
+  margin:auto;
+  border: 3px solid black;
+  width:20rem;
+  height: 100px;
+  align-items: center;
+}
+
+.img-wrapper {
+  text-align: center;
+  width: 20rem;
+}
+img {
+  width: 20rem;
+  height:100px;
+}
+
+.check, .answer, .level, .count, .submitForm, h1
+{
+  margin:1rem;
+  display:flex;
+  align-items:center;
+  justify-content: center;
+}
+
+.levelButton
+{
+  margin:1rem;
+}
+
+form
+{
+  display:none;
+}
